@@ -6,7 +6,7 @@ Also, AWS Lex service is used to make chatbot and use this queries to get the re
 ## Data
 
 The data contains various user queries categorized into seven intents.
-The datset train, test and validation sets can be found in Dataset folder. It has two columns text and intent. The dataset used here is SNIPS dataset, its paper can be found in (https://arxiv.org/abs/1805.10190). 
+The files train, test and validation sets can be found in Dataset folder. It has two columns text and intent. The dataset used here is SNIPS dataset, its paper can be found in (https://arxiv.org/abs/1805.10190). 
 The seven intents are as follows:
 
   * SearchCreativeWork
