@@ -1,8 +1,7 @@
 
 # Deriving Intents from User's Queries using BERT
 
-Intent  Classification,  also  known  as  Intent  Recognition,  is the process of taking a spoken or written text and categorizingit  based  on  the  user’s  goals. The  goal  of  ID  is  to  figure  out  what  a  sentence’s  aim  is,which  is  a  common  categorization  task. The  project  will  go  through  the  following phases:  collecting  and  exploring  the  data,  pre-processing  the gathered  data,  fine-tuning  the  BERT  model  according  to  the task,  training  the  model,  and  evaluating  the  model  to  get  the desired output. This work, an  Intent  Recognition of  user’s  queries  model is based  on  pre-trained  BERT  model.
-Also, AWS Lex service is used to make chatbot and use this queries to get the respected intents.
+Intent  Classification,  also  known  as  Intent  Recognition,  is the process of taking a spoken or written text and categorizing it  based  on  the  user’s  goals. The  goal  of  ID  is  to  figure  out  what  a  sentence’s  aim  is, which  is  a  common  categorization  task. The  project  will  go  through  the  following phases:  collecting  and exploring  the  data,  pre-processing  the gathered  data,  fine-tuning  the  BERT  model  according  to  the task,  training  the  model,  and  evaluating  the  model  to  get  the desired output. This work, an  Intent  Recognition of  user’s  queries  model is based  on  pre-trained  BERT  model. Also, AWS Lex service is used to make chatbot and used these queries to get the respected intents.
 ## Data
 
 The data contains various user queries categorized into seven intents.
