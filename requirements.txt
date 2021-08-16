@@ -5,3 +5,4 @@ This is a Intent Recognition project.
 3. Make use of GPU.
 4. Basic understanding of Tensorflow 2 and Keras.
 5. Dataset is pre-processed but can change if the results are not obtained as required.
+6. Need an AWS account to integrate it with chatbot.
