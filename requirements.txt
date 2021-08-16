@@ -1,0 +1,6 @@
+This is a Intent Recognition project.
+
+1. Snips Dataset available in Dataset folder.
+2. Pre-trained BERT model needs to be downloaded.
+3. Make use of GPU.
+4. Basic understanding of Tensorflow 2 and Keras.
